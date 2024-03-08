@@ -30,3 +30,4 @@ C:\Users\steph\OneDrive\Documents\Programming\C#\Web-API-ASPCORE\ContosoPizza\ob
 C:\Users\steph\OneDrive\Documents\Programming\C#\Web-API-ASPCORE\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\steph\OneDrive\Documents\Programming\C#\Web-API-ASPCORE\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\steph\OneDrive\Documents\Programming\C#\Web-API-ASPCORE\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\steph\OneDrive\Documents\Programming\C#\Web-API-ASPCORE\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
